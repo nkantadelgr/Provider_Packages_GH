@@ -6,8 +6,8 @@
     {"ID":"4", "Title":"Smart Talk and Surf", "Availablefor":["Premium", "Simple"], "Type":"Minutes and data", "Minutes":"1500", "Minutesfor":"Same Provider", "Messages":"0", "Messagesfor":"null", "Data":"2000", "Price":"15", "Validfor":"30"},
     {"ID":"5", "Title":"Smart Talk and Message", "Availablefor":["Premium", "Simple"], "Type":"Minutes and messages", "Minutes":"1500", "Minutesfor":"Same Provider", "Messages":"1000", "Messagesfor":"Same Provider", "Data":"null", "Price":"15", "Validfor":"30"},
     {"ID":"6", "Title":"Smart Everything", "Availablefor":["Premium", "Simple"], "Type":"Everything", "Minutes":"1500", "Minutesfor":"Same Provider", "Messages":"1000", "Messagesfor":"Same Provider", "Data":"2000", "Price":"18", "Validfor":"30"},
-    {"ID":"7", "Title":"Premium Talk and Message", "Availablefor":["Premium"], "Type":"Minutes and messages", "Minutes":"2000", "Minutesfor":"All Providers", "Messages":"1500", "Messagesfor":"All Providers", "Data":"null", "Price":"30", "Validfor":"60"},
-    {"ID":"8", "Title":"Premium Talk and Surf", "Availablefor":["Premium"], "Type":"Minutes and data", "Minutes":"2000", "Minutesfor":"All Providers", "Messages":"null", "Messagesfor":"All Providers", "Data":"5000", "Price":"30", "Validfor":"60"},
-    {"ID":"9", "Title":"Premium Everything", "Availablefor":["Premium"], "Type":"Everything", "Minutes":"2000", "Minutesfor":"All Providers", "Messages":"1500", "Messagesfor":"All Providers", "Data":"5000", "Price":"40", "Validfor":"60"}
+    {"ID":"7", "Title":"Premium Talk and Message", "Availablefor":"Premium", "Type":"Minutes and messages", "Minutes":"2000", "Minutesfor":"All Providers", "Messages":"1500", "Messagesfor":"All Providers", "Data":"null", "Price":"30", "Validfor":"60"},
+    {"ID":"8", "Title":"Premium Talk and Surf", "Availablefor":"Premium", "Type":"Minutes and data", "Minutes":"2000", "Minutesfor":"All Providers", "Messages":"null", "Messagesfor":"All Providers", "Data":"5000", "Price":"30", "Validfor":"60"},
+    {"ID":"9", "Title":"Premium Everything", "Availablefor":"Premium", "Type":"Everything", "Minutes":"2000", "Minutesfor":"All Providers", "Messages":"1500", "Messagesfor":"All Providers", "Data":"5000", "Price":"40", "Validfor":"60"}
   ]
 }
