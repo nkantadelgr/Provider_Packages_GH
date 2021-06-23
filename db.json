@@ -1,6 +1,6 @@
 {
   "Packages":[
-    {"ID":"1", "Title":"Simple Talk and Surf", "Availablefor":["Premium", "Simple"] , "Type":"Minutes and data", "Minutes":"600", "Minutesfor":"Same Provider", "Messages":"0", "Messagesfor":"null", "Data":"1000", "Price":"10", "Validfor":"30"},
+    {"ID":"1", "Title":"Simple Talk and Surf", "Availablefor":["Premium", "Simple"], "Type":"Minutes and data", "Minutes":"600", "Minutesfor":"Same Provider", "Messages":"0", "Messagesfor":"null", "Data":"1000", "Price":"10", "Validfor":"30"},
     {"ID":"2", "Title":"Simple Talk and Message", "Availablefor":"Everyone", "Type":"Minutes and messages", "Minutes":"600", "Minutesfor":"Same Provider", "Messages":"600", "Messagesfor":"Same Provider", "Data":"null", "Price":"10", "Validfor":"30"},
     {"ID":"3", "Title":"Simple Everything", "Availablefor":"Everyone", "Type":"Everything", "Minutes":"600", "Minutesfor":"Same Provider", "Messages":"600", "Messagesfor":"Same Provider", "Data":"1000", "Price":"13", "Validfor":"30"},
     {"ID":"4", "Title":"Smart Talk and Surf", "Availablefor":"Everyone", "Type":"Minutes and data", "Minutes":"1500", "Minutesfor":"Same Provider", "Messages":"0", "Messagesfor":"null", "Data":"2000", "Price":"15", "Validfor":"30"},
