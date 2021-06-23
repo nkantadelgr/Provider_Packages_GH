@@ -1,16 +1,5 @@
 {
   "Packages":[
-    {
-      "Title":"Simple packet",
-      "Available for":"Everyone",
-      "Type":"Minutes and data",
-      "Minutes":"600",
-      "Minutesfor":"Same Provider",
-      "Messages":"0",
-      "Messagesfor":"null",
-      "Data":"1000",
-      "Price":"10",
-      "Validfor":"30"
-    }
+    {"Title":"Simple packet", "Available for":"Everyone", "Type":"Minutes and data", "Minutes":"600", "Minutesfor":"Same Provider", "Messages":"0", "Messagesfor":"null", "Data":"1000", "Price":"10", "Validfor":"30"}
   ]
 }
